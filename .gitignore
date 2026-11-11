@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.log
+*.lock
+api_cache/
+lstm_models/
+purchased_coins.json
+trade_history.json
+positions.json
+.venv/

@@ -1,0 +1,10 @@
+pyupbit
+tensorflow
+scikit-learn
+pandas
+numpy
+ta
+python-telegram-bot
+python-dotenv
+tenacity
+filelock
