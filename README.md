@@ -1,4 +1,3 @@
-[LSTM-AutoTrade README_보완2.md](https://github.com/user-attachments/files/35313477/LSTM-AutoTrade.README_.2.md)
 # LSTM-AutoTrade
 
 업비트 API로 시세를 받아 LSTM으로 다음 날 종가를 예측하고, 주문과 손절·익절을 자동으로 처리한 뒤 텔레그램으로 결과를 알리는 암호화폐 자동매매 봇입니다.
